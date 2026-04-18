@@ -3,7 +3,7 @@
 Dashboard analisis data berbasis Streamlit untuk dataset Olist E-Commerce.
 
 ## 🔗 Live Dashboard
-👉 https://username-nama-repo-dashboard.streamlit.app
+https://projeknanikerawati.streamlit.app/
 
 ## Cara Menjalankan
 
