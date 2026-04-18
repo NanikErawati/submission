@@ -19,7 +19,7 @@ pip install -r requirements.txt
 
 ### 3. Masuk ke folder project
 ```bash
-cd Submission
+cd submission
 ```
 
 ### 4. Jalankan dashboard
@@ -41,7 +41,7 @@ Otomatis terbuka di `http://localhost:8501`
 ## Struktur Folder
 
 ```
-Submission/
+submission/
 ├── dashboard/
 │   ├── dashboard.py
 │   └── main_data.csv
