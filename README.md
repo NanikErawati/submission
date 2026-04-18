@@ -19,7 +19,7 @@ pip install -r requirements.txt
 
 ### 3. Masuk ke folder project
 ```bash
-cd submission
+cd Downloads/Submission
 ```
 
 ### 4. Jalankan dashboard
